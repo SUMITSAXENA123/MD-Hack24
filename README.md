@@ -21,7 +21,7 @@
 1. **Clone the Repository:**
    ```bash
    git clone https://github.com/SUMITSAXENA123/MD-Hack24.git
-   cd DevClash
+   cd MD-Hack24
 
 2. ## Backend Setup:
 
